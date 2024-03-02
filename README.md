@@ -35,4 +35,4 @@ I'm a fullstack developer passionate about creating reuseable and DRY codes and 
 - ⚡ Fun fact: Learning is easy building projects is !easy.
 
 
-<img src=https://api.githubtrends.io/user/svg/emekach/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic"/>
+<img src="https://api.githubtrends.io/user/svg/emekach/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic"/>
