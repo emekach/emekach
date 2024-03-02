@@ -35,5 +35,9 @@ I'm a fullstack developer passionate about creating reuseable and DRY codes and 
 - ⚡ Fun fact: Learning is easy building projects is !easy.
 
 [![Emeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=emekach)](https://github.com/emekach/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emekach)](https://github.com/emekach/github-readme-stats)
+
+
 <img src="https://api.githubtrends.io/user/svg/emekach/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic"/>
